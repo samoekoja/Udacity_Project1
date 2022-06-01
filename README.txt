@@ -26,7 +26,7 @@ LINKS:
 - CloudFront Endpoint url: https://d2zq0kyuvksny1.cloudfront.net
 
 NOTES: 
-- I renamed "Travel Blog" to "Samuel Ekoja's Travel Blog" in index.html.
+- I renamed "Travel Blog" to "Samuel Ekoja's Travel Blog" in index.html
 - It was an interesting project, very practical too. Glad to have this opportunity!
 
 MY PERSONAL DETAILS:
